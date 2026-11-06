@@ -1,0 +1,33 @@
+.navbar-list{
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    align-items: center;
+}
+
+.nav-link{
+    padding: 1rem 0.75rem;
+    color: var(--main-color);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+.nav-link:hover, 
+.nav-link:focus-visible {
+    color: var(--blue-light);
+    outline: none;
+}
+
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.navbar-brand img{
+    height: 2rem;
+    width: auto;
+    display: block;
+}

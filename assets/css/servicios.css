@@ -1,0 +1,21 @@
+/*Servicios*/
+.servicios{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.servicios h3{
+    font-size: 32px;
+    font-width: bold;
+    color: var(--main-color);
+}
+
+.servicios i{
+    color: var(--main-color);
+    font-size: 42px;
+}
+
+.servicios i:hover{
+    color: var(--blue-light);
+}
