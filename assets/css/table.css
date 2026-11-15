@@ -1,0 +1,13 @@
+table{
+    width: 70%;
+    height: auto;
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 10px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+}

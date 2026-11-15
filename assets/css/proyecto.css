@@ -3,6 +3,7 @@
 @import url(servicios.css);
 @import url(container.css);
 @import url(tamaños.css);
+@import url(table.css);
 *,*::before, *::after{
     box-sizing: border-box; /*evita que las cajas se desborden*/
     margin: 0;

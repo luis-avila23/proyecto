@@ -8,6 +8,14 @@
     font-weight: 400;
 }
 
+.container-2{
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 400;
+}
+
 .container .col .pd-30 h2{
     text-align: center;
 }
@@ -17,10 +25,11 @@
     height: auto;
 }
 
-.container h2{
+.container-2 h2{
     font-size: 32px;
     font-weight: bold;
 }
+
 
 p{
     font-size: 1em;
