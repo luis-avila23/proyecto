@@ -1,4 +1,4 @@
 # Recomendaciones
 - Hacer un Formulario
-- Hacer Git ignore
-- 
+- Hacer Git ignore (Hecho)
+- Modificar el README
