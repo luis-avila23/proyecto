@@ -9,7 +9,7 @@
 
 ## Como Verlo?
 - Con el siguiente link:
-[Wiki](proyecto-five-navy.vercel.app)
+[Wiki](https://proyecto-five-navy.vercel.app/)
 
 ## Qué se uso?
 - Se uso unicamente de HTML y CSS
