@@ -5,6 +5,7 @@
 @import url(tamaños.css);
 @import url(table.css);
 @import url(footer.css);
+@import url(form.css);
 *,*::before, *::after{
     box-sizing: border-box; /*evita que las cajas se desborden*/
     margin: 0;
@@ -24,6 +25,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: var(--white);
     font-family: "Poppins", sans-serif;/*se llama ala tipografia*/
+    
 }
 
 .navbar{
