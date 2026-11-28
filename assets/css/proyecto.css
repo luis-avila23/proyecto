@@ -6,6 +6,7 @@
 @import url(table.css);
 @import url(footer.css);
 @import url(form.css);
+@import url(responsive.css);
 *,*::before, *::after{
     box-sizing: border-box; /*evita que las cajas se desborden*/
     margin: 0;
